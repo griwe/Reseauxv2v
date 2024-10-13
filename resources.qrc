@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>coverage_circle.png</file>
+    </qresource>
+</RCC>
